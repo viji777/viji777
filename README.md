@@ -12,7 +12,7 @@
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/LinkedIn_logo_initials.png" alt="LinkedIn" width="120" style="background-color:white; padding:5px; border-radius:5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="120" style="background-color:white; padding:5px; border-radius:5px;">
 </a>
 
 
