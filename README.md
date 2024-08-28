@@ -12,6 +12,6 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/vijayalekshmi-MERN-StackWebDeveloper/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/vijayalekshmi-MERN-StackWebDeveloper/)
 
 
