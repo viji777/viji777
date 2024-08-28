@@ -9,3 +9,7 @@
 -  Checkout My portfolio
 -  How to reach me: vg111viji@gmail.com
 
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/vijayalekshmi-MERN-StackWebDeveloper/)
+
