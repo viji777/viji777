@@ -7,5 +7,5 @@
 -  I’m a MERN stack web developer
 -  Checkout My Resume
 -  Checkout My portfolio
-- 📫 How to reach me: vg111viji@gmail.com
+-  How to reach me: vg111viji@gmail.com
 
