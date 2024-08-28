@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vijayalekshmi
 ## MERN stack developer creating digital experiences that bring your vision to life.
 
-##About me
+## About me
 
 
 -  I’m a MERN stack web developer
