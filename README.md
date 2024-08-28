@@ -9,9 +9,11 @@
 -  Checkout My portfolio
 -  How to reach me: vg111viji@gmail.com
 
-
 ## Connect with Me
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/vijayalekshmi-MERN-StackWebDeveloper/)
+<a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
+</a>
+
 
 
