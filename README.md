@@ -11,7 +11,7 @@
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/vijayalekshmi-MERN-StackWebDeveloper/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="LinkedIn" width="120" style="background-color:white; padding:5px; border-radius:5px;">
 </a>
 
